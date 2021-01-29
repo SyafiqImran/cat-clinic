@@ -1,24 +1,13 @@
-# README
+# Project 4 - Cat Clinic
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi there , this project is using Ruby On Rails to create a CRUD App. The theme that i chose is related to cats clinic
 
-Things you may want to cover:
+Technologies that i used:- For this project , the primary language was Ruby, the framework Ruby on Rails, Postgresql.
 
-* Ruby version
+Approaches that i took in making the application.
 
-* System dependencies
+For making these app, my thought process was to include a function where users will be able to create an account and make an appointment respective to the account.
 
-* Configuration
+Challenges that i faced in making the application.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I consider this as a work in progress , so thanks for sharing your time.
