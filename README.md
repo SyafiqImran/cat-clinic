@@ -13,3 +13,6 @@ Challenges that i faced in making the application.
 Working with rails database to me is quite challenging as the models must have relationships
 
 I consider this as a work in progress , so thanks for sharing your time.
+
+Link to the project
+https://guarded-ravine-89871.herokuapp.com/
