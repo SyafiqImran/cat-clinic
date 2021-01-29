@@ -6,7 +6,7 @@ Technologies that i used:- For this project , the primary language was Ruby, the
 
 Approaches that i took in making the application.
 
-For making these app, my thought process was to include a function where users will be able to create an account and make an appointment respective to the account.
+For making these app, my thought process was to include a function where users will be able to create an account and make an appointment respective to the account. By doing this, the email that the user uses to register will receive an email to confirm account and appointment creation.
 
 Challenges that i faced in making the application.
 
