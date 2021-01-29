@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Appointment</title>
+    <style>
+        .container
+        {
+            background-image: url("https://haveweseenyourcatlately.com.au/wp-content/uploads/2019/07/C15631_C1_CAT_1920x1080_F.gif");
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Make an Appointment Now!</h1>
+    </header>
+    <div class="randomBar" style="background-color: aqua;">
+        <p style="opacity: 0;">lalala</p>
+    </div>
+    <main>
+        <div class="container" style='height:100%'>
+            <div class="box">
+                <div class="appointment">
+                    <%= form_tag '/appointment', method: 'POST' do %>
+                        <%= label_tag :date%>
+                        <br>
+                        
+                        <%= date_field_tag :date %>
+                        <br>
+                        <br>
+                        <%= label_tag :time%>
+                        <br>
+                    
+                        <%= time_field_tag :time%>
+                        <br>
+                        <br>
+                        <%= submit_tag "Make Appointment"%><br>
+                    <%end%>
+                </div>
+            </div>
+            
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        </div>
+    </main>
+    <footer>
+    
+    </footer>
+</body>
+</html>
